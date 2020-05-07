@@ -1,0 +1,4 @@
+Q1. ls does not show anything because there is nothing in the lab1 folder yet
+Q2. the comand does not work as intended becuase there was no docs derectory to save it to so it just created a file called a copy of file1.txt called docs
+Q3. there is no file called file1.txt because we renamed it to file3.txt
+Q4. the comand does not work because there are files in the directory we are trying to delete and they have to be deleted before the directory can be deleted
